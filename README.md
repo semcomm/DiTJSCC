@@ -3,7 +3,7 @@
 **[Authors: Kailin Tan, Jincheng Dai, et al.]**
 
 ## 📢 News
-- **[2025-01]**: The paper has been submitted. The code is **coming after the final acceptance**. Stay tuned!
+- **[2026-01]**: The paper has been submitted. The code is **coming after the final acceptance**. Stay tuned!
 
 ## 🚀 Introduction
 This is the official repository for the paper "DiT-JSCC".
